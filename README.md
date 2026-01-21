@@ -1,31 +1,16 @@
-⚛️ React Playground
-Repositório dedicado ao estudo e prática de conceitos fundamentais do React.js. Este projeto serve como um laboratório para testar componentes, hooks e estados desenvolvidos durante as aulas do Bootcamp.
+# 🧪 React Playground - Laboratório de Inovação
 
-🚀 Tecnologias Utilizadas
-React.js: Biblioteca principal.
+Este é o meu ambiente de testes e prototipagem. Aqui aplico conceitos de ponta do ecossistema React para validar funcionalidades antes de implementá-las em projetos de produção.
 
-JavaScript (ES6+): Lógica de programação.
+### 🧪 O que eu exploro aqui?
+- **Novos Hooks:** Testes de performance com `useMemo` e `useCallback`.
+- **Bibliotecas de UI:** Testes de integração com Tailwind, Material UI ou Framer Motion.
+- **Padrões de Projeto:** Implementação de Design Patterns específicos de Front-end.
 
-CSS3: Estilização.
+### 💡 Por que isso importa?
+Demonstra minha proatividade e curiosidade técnica (**Lifelong Learning**), qualidades indispensáveis tanto para uma Desenvolvedora quanto para uma Analista que precisa se adaptar a novas ferramentas constantemente.
 
-Vite / CRA: Ferramentas de build.
-
-🛠️ Conceitos Praticados
-Criação de Componentes Funcionais.
-
-Gerenciamento de Estado com useState.
-
-Efeitos colaterais com useEffect.
-
-Passagem de dados via Props.
-
-Renderização de listas e condições.
-
-💻 Como rodar o projeto
-Clone o repositório: git clone https://github.com/brunaluiza18/React_Playground.git
-
-Instale as dependências: npm install
-
-Inicie o projeto: npm start ou npm run dev
-
-✨ Desenvolvido por Bruna Luiza durante a jornada Full Stack.
+---
+### 🤝 Contato Profissional
+- **LinkedIn:** [goncalvesbrunal](https://www.linkedin.com/in/goncalvesbrunal/)
+- **E-mail:** [brunaluiza.contat@gmail.com](mailto:brunaluiza.contat@gmail.com)
